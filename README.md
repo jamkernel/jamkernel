@@ -1,3 +1,6 @@
+README.md
+
+```markdown
 # JAM Omni-Kernel P2P v1.2
 
 ### *Núcleo criptográfico para comunicaciones descentralizadas*
@@ -49,3 +52,34 @@ jam.events.on('peer:message', (data) => {
 
 // 5. Cerrar sesión (purga forense)
 await jam.closeSession();
+```
+
+---
+
+📚 Documentación
+
+· API Reference — Documentación técnica completa
+· Guía de Uso — Tutorial paso a paso
+· Guía de Seguridad — Prácticas recomendadas
+
+---
+
+🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Lee nuestra Guía de Contribución.
+
+Contacto: jamkernelp2p@gmail.com
+
+---
+
+📜 Licencia
+
+GNU General Public License v3.0
+
+---
+
+✨ Agradecimientos
+
+Félix Martínez — 2026
+
+Dedicado a mi hijo, por ser la motivación para construir tecnología que construya un mejor futuro.
