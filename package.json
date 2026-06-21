@@ -1,0 +1,28 @@
+{
+  "name": "jamkernelp2p",
+  "version": "1.2.0",
+  "description": "Núcleo criptográfico P2P para comunicaciones descentralizadas",
+  "main": "src/jam-omni-kernel.v1.2.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamkernelp2p/jamkernelp2p.git"
+  },
+  "keywords": [
+    "p2p",
+    "web3",
+    "crypto",
+    "aes-256-gcm",
+    "webrtc",
+    "decentralized"
+  ],
+  "author": "Félix Martínez",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jamkernelp2p/jamkernelp2p/issues"
+  },
+  "homepage": "https://github.com/jamkernelp2p"
+}
