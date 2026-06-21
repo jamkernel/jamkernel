@@ -1,0 +1,36 @@
+# Dependencias
+node_modules/
+package-lock.json
+yarn.lock
+
+# Producción
+dist/
+build/
+*.min.js
+*.min.js.map
+
+# Entorno
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Pruebas
+coverage/
+.nyc_output/
+
+# Temporal
+tmp/
+temp/
